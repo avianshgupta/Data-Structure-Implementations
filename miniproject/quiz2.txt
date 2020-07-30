@@ -1,0 +1,25 @@
+Q1 Convert 43 celcius into fahrenheit
+1) 109.40
+2) 119.40
+3) 382.55
+4) 100
+Q2 Neutral pH is
+1) 8
+2) 0
+3) 14
+4) 7
+Q3 If 5 resistors of 43.0 ohms in connected in series,total resistence is
+1)225
+2)215
+3)43
+4)43
+Q4 V=IR is
+1)Dalton's Law
+2)Newton's Law
+3)Ohm's law
+4)Einstein's Law
+Q5 A body of mass 43.0 kg will experience a force of(take g=9.8)
+1)430.00
+2)421.40
+3)426.40
+4)197.80

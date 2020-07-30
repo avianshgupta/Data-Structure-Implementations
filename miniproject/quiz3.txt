@@ -1,0 +1,25 @@
+Q1 A full BST with height 7 has how many nodes
+1)254
+2)256
+3)255
+4)253
+Q2 A doubly linked list with 10 nodes has how many pointers
+1)18
+2)20
+3)22
+4)21
+Q3 Postfix expression of ((A+B)*C-(D-E)^(F+G)) is
+1)^–*+ABC–DE+FG
+2)AB*C+DEFG--+^
+3)ABC+*DE–F-G+^
+4)AB+C*DE––FG+^
+Q4 Total no of Binary Search trees possible for 7 nodes are
+1)428
+2)14
+3)430
+4)429
+Q5 Stack Data Structure is
+1)Last In First Out
+2)First In First Out
+3)Random
+4)Not a Data Structure

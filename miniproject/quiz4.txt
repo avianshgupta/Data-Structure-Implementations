@@ -1,0 +1,26 @@
+Q1 Keyboard has how many keys
+1)110
+2)100
+3)105
+4)95
+Q2 World's biggest country in terms of area is
+1)Canada
+2)China
+3)Russia
+4)India
+Q3 PM of india is
+1)Narendra Modi
+2)Manmohan Singh
+3)Donald Trump
+4)Yogi Gi
+Q4 First indian person to win nobel prize
+Choose one option
+1)C.V Raman
+2)Mother Teresa
+3)Rabindranath Tagore
+4)Amartya Sen
+Q5 CEO of google is
+1)Larry Page
+2)Sergey Brin
+3)Satya Nadella
+4)Sundar Pichai
